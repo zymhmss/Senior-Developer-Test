@@ -8,7 +8,7 @@
     - Start with a fresh Laravel and React or Vue.js application.
     - Push the project to a **new public GitHub repository**.
     
-    **( you can do separate projects for front-end and back-end if you want to and make sure to send two repos if they are in separate** 
+    **( you can do separate projects for front-end and back-end if you want to and make sure to send two repos if they are in separate projects)** 
     
     - Document the following in `README.md`:
         - Setup instructions (including migrations, seeders, and storage links).
